@@ -1,0 +1,16 @@
+{
+	"name": "@brunnerh/snowpack-plugin-delegate",
+	"description": "A plugin for defining plugins inline or locally.",
+	"authors": "brunnerh",
+    "license": "MIT",
+	"version": "1.0.0",
+	"main": "./src/main.js",
+    "homepage": "https://github.com/brunnerh/snowpack-plugin-delegate",
+    "bugs": {
+        "url": "https://github.com/brunnerh/snowpack-plugin-delegate/issues"
+    },
+	"dependencies": {},
+	"devDependencies": {
+		"snowpack": "^3.0.11"
+	}
+}
